@@ -1,5 +1,9 @@
 local plugins = {
   {
+    'Exafunction/codeium.vim',
+    lazy = false
+  },
+  {
     "jeffkreeftmeijer/vim-numbertoggle",
     lazy = false
   },
